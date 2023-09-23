@@ -9,4 +9,4 @@ wget http://security.ubuntu.com/ubuntu/pool/universe/p/pycairo/python-cairo_1.16
 dpkg -i python-gobject-2_2.28.6-14ubuntu1_amd64.deb 
 dpkg -i python-cairo_1.16.2-2ubuntu2_amd64.deb
 dpkg -i python-gtk2_2.24.0-5.1ubuntu2_amd64.deb 
-dpkg -i zenmap_7.94-2_all.deb
+dpkg -i zenmap_7.94-1_all.deb
