@@ -14,6 +14,7 @@ apt install git- y
 # Installation
 ```bash
 git clone https://github.com/sbeteta42/zenmap/
+cd zenmap
 chmod +x install_zenmap.sh
 ./install_zenmap.sh
 ```
