@@ -9,7 +9,7 @@ script d'installation automatisé de zenmap pour Debian/Ubuntu/Kali
 # Pré-requis
 OS: Debian/Ubuntu/Kali avec Interface GUI
 ```bash
-apt install git- y
+apt install git -y
 ```
 # Installation
 ```bash
