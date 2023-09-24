@@ -25,4 +25,4 @@ dpkg -i zenmap_7.94-2_all.deb
 
 # Suppresion du scripts et programmes résiduels
 cd ..
-rm * -rf zenmap
+rm -rf zenmap
