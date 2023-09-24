@@ -1,5 +1,5 @@
 # zenmap
-script d'installation automatisée de zenmap pour Debian/Ubuntu/Kali
+script d'installation automatisé de zenmap pour Debian/Ubuntu/Kali
 
 # Information
 - Une version zenmap-kbr est disponible pour les fork de Debian mais l'application est dans un conteneur Docker ; cette version crée des problèmes au niveau des règles iptables et routage une fois installé.
