@@ -33,8 +33,4 @@ clear
 # installation de zenmap
 echo "installation de zenmap..." 
 dpkg -i zenmap_7.94-2_all.deb
-
-# Suppression du script et programmes résiduels
-cd ..
-rm -rf zenmap
 echo " Installation de Zenmap terminé !"
