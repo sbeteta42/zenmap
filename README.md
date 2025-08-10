@@ -1,4 +1,4 @@
-# ![Zenmap Logo](<img width="497" height="497" alt="image" src="https://github.com/user-attachments/assets/e8181211-5995-4f12-bfa1-ba5e8cb775a6" />) Zenmap – Interface graphique pour Nmap 🎯
+# Zenmap – Interface graphique pour Nmap 🎯
 
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20%7C%20macOS-blue)
 ![Status](https://img.shields.io/badge/Status-Lab%20Ready-success)
