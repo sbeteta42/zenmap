@@ -1,3 +1,6 @@
+# Installation automatisée de ZENMAP (Debian/Ubuntu/Mint)
+# Par sbeteta@beteta.org
+
 # maj du système
 echo # [1/8] Mise à jour du système... please wait !"
 sleep 5
