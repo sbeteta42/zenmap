@@ -32,8 +32,13 @@
 ---
 
 ##  Installation  
-1. Clone le dépôt :  
-   ```bash
-   git clone https://github.com/sbeteta42/zenmap.git
-   cd zenmap
-   ```
+```bash
+git clone https://github.com/sbeteta42/zenmap/
+cd zenmap
+chmod +x install_zenmap.sh
+./install_zenmap.sh
+```
+---
+
+## Licence
+MIT - libre, glandouille-friendly !
