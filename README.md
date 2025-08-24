@@ -20,6 +20,9 @@
 
 ##  Présentation  
 **Zenmap** est l’interface graphique officielle de **Nmap**, multi-plateforme (Linux, Windows, macOS…) et open-source, conçue pour faciliter les scans de sécurité réseau tant pour les débutants que pour les utilisateurs avancés :contentReference[oaicite:1]{index=1}.
+ Une version zenmap-kbr est disponible pour les fork de Debian mais l'application est dans un conteneur Docker ; cette version crée des problèmes au niveau des règles iptables et routage une fois installé.
+- Le package zenmap qui existe par défaut est compilé pour les RedHat/Fedora/CentOs/RockyOS.
+- Le script proposé convertit le .RPM en .DEB et règle les problèmes indiqués ci-dessus.
 
 ---
 
